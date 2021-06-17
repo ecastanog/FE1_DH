@@ -1,0 +1,109 @@
+body{
+    width: 1440px;
+    height: 1024px;
+
+}
+.encabezado{
+    width: 1440px;
+    height: 189px;
+    left: 0px;
+    top: 0px;
+
+    background: #E6E6E6;
+}
+.logo{
+    margin-left: 670px;
+    margin-right: auto;
+    margin-top: auto;
+    width:100px;
+    height:147px;
+}
+
+h1.titulo-cv{
+    background-color: #C4C4C4;
+    width: auto;
+    height: 30px;
+    left: 213px;
+    top: 203px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 84.69%;
+    /* identical to box height, or 30px */
+
+    font-feature-settings: 'cpsp' on;
+
+    color: #005677;
+    text-align: center;
+}
+
+.tit1{ 
+    background-color: #C4C4C4;   
+    width: 354px;
+    height: 17px;
+    left: 200px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: bold;
+    color: #005677;
+}
+
+
+
+ol.lista-puntos{
+    
+
+    color: #000000;
+    list-style-type: disc;
+}
+
+
+.tit2{
+    background-color: #C4C4C4;
+    width: 354px;
+    height: 17px;
+    top: 352px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: bold;
+    color: #005677;
+}
+.tit3{
+    background-color: #C4C4C4;
+    width: 354px;
+    height: 17px;
+    top: 600px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: bold;
+    color: #005677;
+}
+
+footer{
+    align-content: center;
+    width: 1440px;
+    height: 37px;
+    left: 0px;
+    top: 987px;
+
+    background: #005677;
+}
+.foot{
+    margin-left: 673.5px;
+}
+
+
+.logoinstagram{
+    width: 20px;
+    height: 20px;
+}
+.logolinkedin{
+    width: 20px;
+    height: 20px;
+    
+}
